@@ -89,8 +89,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any questions or suggestions, please feel free to reach out:
 - **Author**: Santosh Khadul
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-
 ---
 
 Enjoy analyzing population data and gaining valuable insights!
